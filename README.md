@@ -19,4 +19,3 @@ The parameters can be set via environment variables
 |AHTTP_CONTENTTYPE|`application/json`|Content type to be used|
 |AHTTP_METHOD|`POST`|Method to be used (GET, PUT, POST, DELETE)|
 |AHTTP_WAITTIME|`30s`|Waittime to be used before restarting.|
-
